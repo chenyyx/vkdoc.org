@@ -7,4 +7,4 @@
 目前该 [repo](https://github.com/vkdoc/vkdoc.org/) 主要用于建议反馈的收集，大家遇到什么问题，或者有啥好的想法，直接发起 [issue](https://github.com/vkdoc/vkdoc.org/issues) 即可，也可以联系我们，谢谢大家。
 
 ## 联系方式
-* [@那伊抹微笑](1042658081)
+* [@那伊抹微笑](https://github.com/wangyangting/) - 企鹅: 1042658081，邮箱: yting_xmei1129@163.com
